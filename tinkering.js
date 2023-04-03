@@ -4,4 +4,4 @@ function multiply(a,b) {
 
 const result = multiply(2,4);
 
-cpnsole.log(result);
+console.log(result);
